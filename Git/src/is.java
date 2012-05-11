@@ -7,5 +7,5 @@ public class is {
 			System.out.println("Jar Jar Binks ha muerto");
 		else 
 			System.out.println("Jar Jar Binks ha muerto y resucitado como Jose Ángel");
-	}
+	}//Jar Jar Binks
 }
